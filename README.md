@@ -12,4 +12,6 @@ Run in any java plateform like eclipse, netbeans
 
 For run in terminal 
 ~$ javac ChatBot.java
+
+
 ~$ java ChatBot
