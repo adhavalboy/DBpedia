@@ -1,1 +1,11 @@
 # DBpedia
+This is chat bot for DBpedia Warm Up 
+
+# Use of DBpedia chat bot
+to convert arabic number to roman numer
+
+# Additional
+BOT will give answer of some random output string
+
+# How to run 
+Run in any java plateform like eclipse, netbeans
