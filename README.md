@@ -9,3 +9,7 @@ BOT will give answer of some random output string
 
 # How to run 
 Run in any java plateform like eclipse, netbeans
+
+For run in terminal 
+~$ javac ChatBot.java
+~$ java ChatBot
