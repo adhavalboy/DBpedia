@@ -2,7 +2,7 @@
 This is chat bot for DBpedia Warm Up 
 
 # Use of DBpedia chat bot
-to convert arabic number to roman numer
+to convert arabic number to roman number
 
 # Additional
 BOT will give answer of some random output string
